@@ -1,0 +1,53 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+li{
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 5%;
+	
+	margin-top: 5%;
+}
+a{
+	text-decoration: none;
+	color:white;
+	font-size: 12px;
+}
+#menu{
+	background-color: black;
+}
+#Flatness{
+	width: 30%;
+}
+.negro{
+	background-color: black;
+}
+.container{
+	text-align: center;
+	padding-right: 5%;
+	padding-left: 5%;
+
+}
+.flores{
+	background-color:  #171426;
+
+}
+.img1{
+	width: 85%;
+	padding-top: 3%;
+}
+.negro{
+	background-color: black;
+	color: #FFCB7E;
+}
+#flores{
+background-image: url(../header-image.jpg);
+}
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
